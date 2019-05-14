@@ -1,3 +1,3 @@
 print("hello world")
-print("hello")
+print("hello everyone")
 a=input("nhap so bat ky")
